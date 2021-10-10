@@ -32,10 +32,10 @@ public class CrecienteDecreciente {
 			System.out.print(arreglo[i] + " ");
 		}
 		System.out.println(" ");
-//		System.out.println("El arreglo ordenado de forma decreciente es el siguiente: ");
-//		for (int i = (nElementos - 1); i >= 0; i--) {
-//			System.out.print(arreglo[i] + " ");
-//		}
-//		System.out.println(" ");
+		System.out.println("El arreglo ordenado de forma decreciente es el siguiente: ");
+		for (int i = (nElementos - 1); i >= 0; i--) {
+			System.out.print(arreglo[i] + " ");
+		}
+		System.out.println(" ");
 	}
 }
