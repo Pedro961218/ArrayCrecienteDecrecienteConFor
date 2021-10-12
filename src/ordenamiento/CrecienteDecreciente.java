@@ -36,6 +36,6 @@ public class CrecienteDecreciente {
 		for (int i = (nElementos - 1); i >= 0; i--) {
 			System.out.print(arreglo[i] + " ");
 		}
-		System.out.println("Adios ");
+		System.out.println(" ");
 	}
 }
